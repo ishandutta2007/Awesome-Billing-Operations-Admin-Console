@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Billing-Operations-Admin-Console/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Billing-Operations-Admin-Console?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Billing-Operations-Admin-Console/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Billing-Operations-Admin-Console?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Billing-Operations-Admin-Console/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Billing-Operations-Admin-Console?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -57,7 +57,7 @@ The following commercial SaaS billing platforms bundle administrative consoles a
 
 ## 💻 Open-Source Billing Platforms & Admin Consoles
 
-Self-hosted billing applications, modular payment orchestration engines, and developer-centric invoicing dashboards. Sorted in **descending order by GitHub star count**:
+Self-hosted billing applications, modular payment orchestration engines, and developer-centric invoicing dashboards. Sorted in **descending order by GitHub Stars_Count**:
 
 - **[Hyperswitch](https://github.com/juspay/hyperswitch)** [![Stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white)](https://github.com/juspay/hyperswitch/stargazers) — ⚡ High-performance, open-source payment orchestration router with an admin dashboard to handle payments, routing, and refunds across multiple processors.
 - **[Lago](https://github.com/getlago/lago)** [![Stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers) — 🎯 Open-source metering and usage-based subscription billing platform with an intuitive operational back-office console.
